@@ -5,4 +5,5 @@ ssh-keygen -t rsa -f ~/.ssh/id_rsa_002 -C "new ssh key"
 # ssh-copy-id -i ~/.ssh/id_rsa.pub -p 22 root@172.16.22.132
 
 
-
+#gpg
+#https://blog.csdn.net/weixin_42559321/article/details/82147888
