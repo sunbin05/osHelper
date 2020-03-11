@@ -1,5 +1,8 @@
-lsof用法大全
+lsof
 https://www.jianshu.com/p/a3aa6b01b2e1
 
 perf
 https://perf.wiki.kernel.org/index.php/Tutorial
+
+ftrace
+https://www.ibm.com/developerworks/cn/linux/l-cn-ftrace/
